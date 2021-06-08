@@ -15,7 +15,7 @@ If you use or are inspired by code in these repositories please cite the appropr
 ## Repo details
 The following repositories contain project directories associated with:
   * [RepAdapt](https://github.com/JimWhiting91/RepAdapt) - Signatures of genomic convergence across plant species in response to climate
-  * [ArchitectSims](https://github.com/JimWhiting91/https://github.com/JimWhiting91/popgen_convergence_slim) - SLiM studies to better understand the association between population genetic parameters, quantiative traits, and convergent evolution.
+  * [ArchitectSims](https://github.com/JimWhiting91/popgen_convergence_slim) - SLiM studies to better understand the association between population genetic parameters, quantiative traits, and convergent evolution.
 
 ## Associated publications
 RepAdapt:
